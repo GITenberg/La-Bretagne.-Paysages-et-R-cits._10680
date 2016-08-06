@@ -1,0 +1,30 @@
+_repo: La-Bretagne.-Paysages-et-R-cits._10680
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Loudun, Eugène
+    aliases:
+    - Balleyguier, Eugène
+    - Fidus
+    - Loudun, Eugene
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '3632'
+    url: http://www.gutenberg.org/2009/agents/3632
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10680'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brittany (France) -- Folklore'
+- !lcc 'DC'
+- !lcsh 'Brittany (France) -- Description and travel'
+- GITenberg
+title: La Bretagne. Paysages et Récits.
+url: http://www.gutenberg.org/ebooks/10680
