@@ -1,5 +1,8 @@
 _repo: La-Bretagne.-Paysages-et-R-cits._10680
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Loudun, Eugène
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '3632'
     url: http://www.gutenberg.org/2009/agents/3632
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10680#La-Bretagne.-Paysages-et-R-cits.
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
